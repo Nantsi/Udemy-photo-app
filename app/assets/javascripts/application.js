@@ -9,3 +9,4 @@
 //= require twitter/bootstrap
 //= require turbolinks
 //= require_tree .
+import "./credit_card_form"
